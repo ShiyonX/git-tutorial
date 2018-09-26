@@ -1,4 +1,4 @@
 My name is Shaun
-<<<<<<< HEAD
+
 My favourite colour is purple. False, it is blue, no, orange
->>>>>>> d94179f903c97475c277085a2c4ab817486e5191
+
